@@ -19,3 +19,7 @@ html {
 #bottom {
     padding-top: 20rem;
 }
+
+a {
+    margin-inline: 2%;
+}
